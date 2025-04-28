@@ -5,7 +5,7 @@ date: 2025-04-03 12:00:00 +0000
 categories: [GeoSpatial, Satellite, AI, ObjectDetection]
 tags: [satellite_imagery, pytorch, torchgeo, rasterio, qgis, numpy, matplotlib]
 image:
-  path: /media/projects/environmental_project/image_with_labels.png
+  path: /media/projects/environmental_project/batch.png
   height: 100
   width: 100
 language: Python
@@ -18,14 +18,7 @@ language: Python
 - The client will later perform their study using my contribution.
 
 ## Images:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-  <div style="flex-basis: 48%; max-width: 300px; margin-bottom: 20px; text-align: justify;">
-    <img src="/media/projects/environmental_project/batch.png" alt="Generated dataset." style="max-width: 300px; width: 100%; height: auto;">
-    <p style="width: 100%; max-width: 300px;"><em><b>Figure 1:</b> Sample of the dataset.</em></p>
-  </div>
-
-  <div style="flex-basis: 48%; max-width: 300px; margin-bottom: 20px; text-align: justify;">
-    <img src="/media/projects/environmental_project/image_with_labels.png" alt="Satellite image with label" style="max-width: 300px; width: 100%; height: auto;">
-    <p style="width: 100%; max-width: 300px;"><em><b>Figure 2:</b> Sentinel-2 image, the pink area on the island’s coast is a segmentation provided by the client. It has 9 categories, including the background.</em></p>
-  </div>
+<div style="flex-basis: 48%; margin-bottom: 20px; text-align: justify;">
+  <img src="/media/projects/environmental_project/batch.png" alt="Generated dataset." style="width: 100%; height: auto;">
+  <p style="width: 100%;"><em><b>Figure 1:</b> Sample of the dataset.</em></p>
 </div>
