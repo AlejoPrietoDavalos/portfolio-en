@@ -28,5 +28,5 @@ language: Python
 ## Images:
 <div style="flex-basis: 48%; margin-bottom: 20px; text-align: justify;">
   <img src="/media/projects/object_tracking/measures_2.png" alt="Measures." style="width: 100%; height: auto;">
-  <p style="width: 100%;"><em><b>Figure 1:</b> The entire patio is measured to have the wall contour referenced, and to calculate the homography that allows referencing the detected point to the floor plan.</em></p>
+  <p style="width: 100%;"><em><b>Figure 1:</b> The entire courtyard is measured to reference the outline of the wall and calculate the homography that allows referencing the detected point to the floor plan.</em></p>
 </div>
